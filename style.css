@@ -1,0 +1,54 @@
+body {
+    background-color: rgba(255, 0, 0, 0.427);
+    color: snow;
+}
+
+header {
+    background-color: lightblue;
+    color: royalblue;
+}
+
+section {
+    background-color: yellowgreen;
+    color: darkblue;
+}
+
+h2 {
+    background-color: snow;
+    color: black;
+}
+
+#about {
+    background-color: red;
+    color: snow;
+}
+
+#boxmodel {
+    background-color: blue;
+    color: snow;
+}
+
+#units {
+    background-color: black;
+    color: snow;
+}
+
+#fonts {
+    background-color: green;
+    color: red;
+}
+
+.codebox {
+    background-color: blueviolet;
+}
+
+/* #units, #fonts { 
+    background-color: violet;
+    color: snow;
+} */
+
+nav > ul {
+    list-style-type: none;
+}
+
+/* #id > class .codebox > HTML-navn */
